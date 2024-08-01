@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Real Time Drawing App](https://real-time-drawing-amber.vercel.app/)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **New Skills**
 
 - 💬 Ask me about **React,NodeJs,HTML,CSS,Javascript,C++**
 
